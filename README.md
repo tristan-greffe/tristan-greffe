@@ -1,4 +1,4 @@
-### Hi there 👋
+[![Header](https://github.com/tristan-greffe/tristan-greffe/blob/master/banner.png?raw=true "Header")](https://github.com/tristan-greffe)
 
 ## 👋 Hello! 
 As a JavaScript Web Developer, my aim is to continue developing my skills and add value to every project I work on.
