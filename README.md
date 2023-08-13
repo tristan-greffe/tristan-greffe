@@ -1,6 +1,6 @@
 <div align="center">
 
-  [![Banner](./readme_assets/banner.png)](https://github.com/tristan-greffe)
+  [![Banner](./readme_assets/readme_banner.png)](https://github.com/tristan-greffe)
 
   <p>As a JavaScript Web Developer, my aim is to continue developing my skills and add value to every project I work on.</p>
 
