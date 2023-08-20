@@ -6,7 +6,7 @@
 
   <p>
     <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&color=informational&logo=javascript" />
-    <img src="https://img.shields.io/badge/Code-ReactJs-informational?style=flat&color=informational&logo=react.js" />
+    <img src="https://img.shields.io/badge/Code-ReactJs-informational?style=flat&color=informational&logo=react" />
     <img src="https://img.shields.io/badge/Code-Vue-informational?style=flat&color=informational&logo=vue.js" />
     <img src="https://img.shields.io/badge/Code-Node-informational?style=flat&color=informational&logo=node.js" />
     <img src="https://img.shields.io/badge/Tool-Webpack-informational?style=flat&color=warning&logo=webpack" />
